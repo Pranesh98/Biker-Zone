@@ -1,15 +1,21 @@
 
 .b-control{
     background-color: orange;
-    opacity: .75;
+    opacity: .70;    
 }
+
+/* footer */
 .icon{
     width:20px;
 }
+/* footer social part  */
 .social{
-    width: 30px;
+    width: 50px;
+    margin-left: 20px;
 }
-
+.social-part{
+    border-right: solid 5px rgb(89, 208, 255);
+}
 
 
 
